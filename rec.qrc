@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Timer_icons/alarm.png</file>
+        <file>Timer_icons/timer.png</file>
+        <file>Timer_icons/not.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sounds/1.mp3</file>
+        <file>sounds/1.wav</file>
+        <file>sounds/cuckoo-clock-05.wav</file>
+    </qresource>
+</RCC>
